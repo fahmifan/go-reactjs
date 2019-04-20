@@ -5,7 +5,7 @@ import (
 	"log"
 
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/miun173/go-rest/cmd/simplerest/models"
+	"github.com/miun173/go-reactjs/cmd/simplerest/models"
 )
 
 var db *sql.DB

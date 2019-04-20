@@ -1,4 +1,4 @@
-module github.com/miun173/go-rest
+module github.com/miun173/go-reactjs
 
 require (
 	github.com/gorilla/mux v1.7.1

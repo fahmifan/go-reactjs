@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"github.com/gorilla/mux"
-	"github.com/miun173/go-rest/cmd/simplerest/handler"
-	"github.com/miun173/go-rest/cmd/simplerest/repo"
+	"github.com/miun173/go-reactjs/cmd/simplerest/handler"
+	"github.com/miun173/go-reactjs/cmd/simplerest/repo"
 )
 
 func init() {

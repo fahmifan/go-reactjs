@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/miun173/go-rest/cmd/simplerest/models"
-	"github.com/miun173/go-rest/cmd/simplerest/repo"
+	"github.com/miun173/go-reactjs/cmd/simplerest/models"
+	"github.com/miun173/go-reactjs/cmd/simplerest/repo"
 )
 
 var people []models.Person
